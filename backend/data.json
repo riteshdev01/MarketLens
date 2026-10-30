@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "_id": "07a26705-26b9-45ea-8e3d-2e7e4af0b9f6",
+      "name": "temp1@gmail.com",
+      "email": "temp1@gmail.com",
+      "password": "$2b$10$lkZruo9awsvyd3QLk4xkC.a1lLQifRdVbTY7mzcABSRFewx6qT6Gm",
+      "role": "user"
+    },
+    {
+      "_id": "477e2fae-f969-41bb-8c69-0016f0875d09",
+      "name": "temp2",
+      "email": "temp2@gmail.com",
+      "password": "$2b$10$vq56Y1rrQp2UYw0WAFF1IuqR0.9OOjGcKp8cKSI4XJBzgmf4rcwGu",
+      "role": "user"
+    }
+  ],
+  "portfolios": [
+    {
+      "_id": "4e2e4e2c-1a93-45d4-9e19-75ce2ee91e08",
+      "user": "07a26705-26b9-45ea-8e3d-2e7e4af0b9f6",
+      "symbol": "AAPL",
+      "shares": 3,
+      "avgPrice": 479,
+      "name": "demo",
+      "currentPrice": 67,
+      "createdAt": 1793031100208
+    }
+  ],
+  "messages": []
+}
