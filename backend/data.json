@@ -13,6 +13,13 @@
       "email": "temp2@gmail.com",
       "password": "$2b$10$vq56Y1rrQp2UYw0WAFF1IuqR0.9OOjGcKp8cKSI4XJBzgmf4rcwGu",
       "role": "user"
+    },
+    {
+      "_id": "2682a793-6817-47b1-bf11-722c2e752211",
+      "name": "temp1234@gmail.com",
+      "email": "temp1234@gmail.com",
+      "password": "$2b$10$iKsH6E9Z0nmtTT4CPto5EODbjfVxlMCQQhAj8l/PabTkcoAFRXNE2",
+      "role": "user"
     }
   ],
   "portfolios": [
@@ -25,6 +32,16 @@
       "name": "demo",
       "currentPrice": 67,
       "createdAt": 1793031100208
+    },
+    {
+      "_id": "484f8716-6044-4eed-899a-83961d28bf8f",
+      "user": "07a26705-26b9-45ea-8e3d-2e7e4af0b9f6",
+      "symbol": "XYZ",
+      "shares": 4,
+      "avgPrice": 6,
+      "name": "XYZ COMPANY",
+      "currentPrice": 24,
+      "createdAt": 1793421386968
     }
   ],
   "messages": []
